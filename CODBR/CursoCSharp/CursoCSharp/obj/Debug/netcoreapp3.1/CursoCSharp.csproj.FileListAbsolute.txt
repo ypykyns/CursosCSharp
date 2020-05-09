@@ -1,0 +1,13 @@
+C:\WorkSpace\CursosCSharp\CODBR\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.exe
+C:\WorkSpace\CursosCSharp\CODBR\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.deps.json
+C:\WorkSpace\CursosCSharp\CODBR\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.runtimeconfig.json
+C:\WorkSpace\CursosCSharp\CODBR\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.runtimeconfig.dev.json
+C:\WorkSpace\CursosCSharp\CODBR\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.dll
+C:\WorkSpace\CursosCSharp\CODBR\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.pdb
+C:\WorkSpace\CursosCSharp\CODBR\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.csprojAssemblyReference.cache
+C:\WorkSpace\CursosCSharp\CODBR\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\WorkSpace\CursosCSharp\CODBR\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.AssemblyInfoInputs.cache
+C:\WorkSpace\CursosCSharp\CODBR\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.AssemblyInfo.cs
+C:\WorkSpace\CursosCSharp\CODBR\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.dll
+C:\WorkSpace\CursosCSharp\CODBR\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.pdb
+C:\WorkSpace\CursosCSharp\CODBR\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.genruntimeconfig.cache
