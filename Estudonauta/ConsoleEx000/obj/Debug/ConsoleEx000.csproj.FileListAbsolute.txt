@@ -1,0 +1,7 @@
+C:\WorkSpace\C#\ConsoleEx000\bin\Debug\ConsoleEx000.exe.config
+C:\WorkSpace\C#\ConsoleEx000\bin\Debug\ConsoleEx000.exe
+C:\WorkSpace\C#\ConsoleEx000\bin\Debug\ConsoleEx000.pdb
+C:\WorkSpace\C#\ConsoleEx000\obj\Debug\ConsoleEx000.csprojAssemblyReference.cache
+C:\WorkSpace\C#\ConsoleEx000\obj\Debug\ConsoleEx000.csproj.CoreCompileInputs.cache
+C:\WorkSpace\C#\ConsoleEx000\obj\Debug\ConsoleEx000.exe
+C:\WorkSpace\C#\ConsoleEx000\obj\Debug\ConsoleEx000.pdb

@@ -1,0 +1,10 @@
+C:\WorkSpace\C#\WindowsEx000\bin\Debug\WindowsEx000.exe.config
+C:\WorkSpace\C#\WindowsEx000\bin\Debug\WindowsEx000.exe
+C:\WorkSpace\C#\WindowsEx000\bin\Debug\WindowsEx000.pdb
+C:\WorkSpace\C#\WindowsEx000\obj\Debug\WindowsEx000.csprojAssemblyReference.cache
+C:\WorkSpace\C#\WindowsEx000\obj\Debug\WindowsEx000.Form1.resources
+C:\WorkSpace\C#\WindowsEx000\obj\Debug\WindowsEx000.Properties.Resources.resources
+C:\WorkSpace\C#\WindowsEx000\obj\Debug\WindowsEx000.csproj.GenerateResource.cache
+C:\WorkSpace\C#\WindowsEx000\obj\Debug\WindowsEx000.csproj.CoreCompileInputs.cache
+C:\WorkSpace\C#\WindowsEx000\obj\Debug\WindowsEx000.exe
+C:\WorkSpace\C#\WindowsEx000\obj\Debug\WindowsEx000.pdb

@@ -1,0 +1,7 @@
+C:\WorkSpace\C#\AmbienteM01\Teste1\bin\Debug\Teste1.exe.config
+C:\WorkSpace\C#\AmbienteM01\Teste1\bin\Debug\Teste1.exe
+C:\WorkSpace\C#\AmbienteM01\Teste1\bin\Debug\Teste1.pdb
+C:\WorkSpace\C#\AmbienteM01\Teste1\obj\Debug\Teste1.csprojAssemblyReference.cache
+C:\WorkSpace\C#\AmbienteM01\Teste1\obj\Debug\Teste1.csproj.CoreCompileInputs.cache
+C:\WorkSpace\C#\AmbienteM01\Teste1\obj\Debug\Teste1.exe
+C:\WorkSpace\C#\AmbienteM01\Teste1\obj\Debug\Teste1.pdb
